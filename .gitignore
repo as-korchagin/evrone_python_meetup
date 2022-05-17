@@ -1,0 +1,6 @@
+target
+.vscode
+venv
+pypy*
+__pycache__
+*.png
