@@ -4,3 +4,6 @@ venv
 pypy*
 __pycache__
 *.png
+*.egg-info
+dist
+haversine_c/build
